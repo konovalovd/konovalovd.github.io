@@ -1,2 +1,2 @@
-# konovalovd.github.io
+# my site
 my repository
